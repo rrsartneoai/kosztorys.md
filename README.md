@@ -1,7 +1,7 @@
 Pierwotny kosztorys na dwa precyzyjnie zdefiniowane etapy, zgodnie z wytycznymi. 
 ---
 
-### **Kosztorys Realizacji Projektu: Platforma Prawna "Legal Engine" (Podział na Etapy)**
+### **Kosztorys Realizacji Projektu: Platforma Prawna "Kancelaria X" (Podział na Etapy)**
 
 **Data sporządzenia:** 22.07.2024
 **Dla:** Kancelaria Prawna "Sofos"
